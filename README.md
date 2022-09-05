@@ -5,7 +5,7 @@ Write down your to-do notes.
 ## Privacy Policy
 
 ### What information do you collect?
-The notes are collected on Firebase. The user is able to delete his or her own notes.
+Only the notes that are written by the user himself/herself in the Note Keeper application are collected on Firebase. The user is able to delete his or her own notes at any time he or she desires.
 
 ### How do you use the information?
 The collected notes are shown to the relevant user (the owner of the notes) back.
