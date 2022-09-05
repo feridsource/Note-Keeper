@@ -1,6 +1,7 @@
 # Note Keeper
 
 Write down your to-do notes.
+[Play Store](https://play.google.com/store/apps/details?id=com.ferid.app.notekeeper&hl=en&gl=US)
 
 ## Privacy Policy
 
