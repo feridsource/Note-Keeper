@@ -12,7 +12,7 @@ class Login extends StatefulWidget {
 }
 
 class _LoginState extends State<Login> with TickerProviderStateMixin {
-// whether signing in is needed or not.
+  // whether signing in is needed or not.
   var isSignNeeded = false;
 
   var tfEmail = TextEditingController();
@@ -167,13 +167,13 @@ class _LoginState extends State<Login> with TickerProviderStateMixin {
                             }
                         });
                       },
-                      child: const Text(
-                        "Sign in with Google",
-                        style: TextStyle(color: Colors.blueGrey, fontSize: 24),
-                      ),
                       style: ElevatedButton.styleFrom(
                         backgroundColor: Colors.white,
                         foregroundColor: Colors.grey,
+                      ),
+                      child: const Text(
+                        "Sign in with Google",
+                        style: TextStyle(color: Colors.blueGrey, fontSize: 24),
                       ),
                     ),
                   ),

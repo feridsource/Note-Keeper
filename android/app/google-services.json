@@ -1,42 +1,50 @@
 {
   "project_info": {
-    "project_number": "94519978238",
-    "firebase_url": "https://note-keeper-88d80-default-rtdb.firebaseio.com",
-    "project_id": "note-keeper-88d80",
-    "storage_bucket": "note-keeper-88d80.appspot.com"
+    "project_number": "982386003355",
+    "firebase_url": "https://note-keeper-fe7e7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "note-keeper-fe7e7",
+    "storage_bucket": "note-keeper-fe7e7.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:94519978238:android:f9ffb2a264cedf32501daf",
+        "mobilesdk_app_id": "1:982386003355:android:e96254c7f04aa54ab9253e",
         "android_client_info": {
           "package_name": "com.ferid.app.notekeeper"
         }
       },
       "oauth_client": [
         {
-          "client_id": "94519978238-l3g1rnd7jcdjv0rlhspm18mr20ccd7eo.apps.googleusercontent.com",
+          "client_id": "982386003355-k8ooeoino82jdpo9tp2f91n6n4ik8tne.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.ferid.app.notekeeper",
-            "certificate_hash": "015711fa4c019bb96afdef85d0efe7e44f7c6d64"
+            "certificate_hash": "3ef4d0fb9db1d8ea0b7b591edbc60dfd4a250784"
           }
         },
         {
-          "client_id": "94519978238-feguhq5dnbtdodim2au2pfht0ac49m8h.apps.googleusercontent.com",
+          "client_id": "982386003355-qa52ohpkj2og09usd5dbt2ee8pm8ka1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ferid.app.notekeeper",
+            "certificate_hash": "b10112200106636d349463aec1d19f36ebca917a"
+          }
+        },
+        {
+          "client_id": "982386003355-l596mv3950cmj7tae1pjmvvnc2vretu8.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAji3TZQMLN-9N_GLtOT8PIYy3LTwfwGiI"
+          "current_key": "AIzaSyAu4-4fLzTQtimNfCv6T_QP0pthG1_aygE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "94519978238-feguhq5dnbtdodim2au2pfht0ac49m8h.apps.googleusercontent.com",
+              "client_id": "982386003355-l596mv3950cmj7tae1pjmvvnc2vretu8.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
